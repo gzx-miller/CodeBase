@@ -1,6 +1,6 @@
 import {
     Cat
-} from './dist/index';
+} from './dist';
 
 export {
     Cat

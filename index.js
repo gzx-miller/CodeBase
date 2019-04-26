@@ -1,6 +1,6 @@
 let {
     Cat
- } = require("./dist/index");
+ } = require("./dist");
 
 module.exports = {
     Cat
